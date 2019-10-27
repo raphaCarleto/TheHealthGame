@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "222990442631",
+    "firebase_url": "https://thehealthgame-86a75.firebaseio.com",
+    "project_id": "thehealthgame-86a75",
+    "storage_bucket": "thehealthgame-86a75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222990442631:android:95f0985a002df44f8ed822",
+        "android_client_info": {
+          "package_name": "com.raphael.pulm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222990442631-bamdvudjddhaj1psbkelo0d3rkatrhbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDx-xv0lAcNVCcv-8GYFb2y2letXRb-2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222990442631-bamdvudjddhaj1psbkelo0d3rkatrhbc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222990442631-ujm1q0be67umlogq5pu55lpsdvp4p5vc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.raphael.pulm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

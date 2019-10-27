@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>222990442631-ujm1q0be67umlogq5pu55lpsdvp4p5vc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.222990442631-ujm1q0be67umlogq5pu55lpsdvp4p5vc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDL_Z86ayHdylqKhVPohGtH6HY0jFWT0wo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>222990442631</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.raphael.pulm</string>
+	<key>PROJECT_ID</key>
+	<string>thehealthgame-86a75</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thehealthgame-86a75.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:222990442631:ios:d1bc2fc72ff0f3888ed822</string>
+	<key>DATABASE_URL</key>
+	<string>https://thehealthgame-86a75.firebaseio.com</string>
+</dict>
+</plist>
